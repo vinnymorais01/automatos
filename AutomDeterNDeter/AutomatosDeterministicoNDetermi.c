@@ -1,3 +1,5 @@
+//JOAO TESUDO SEU LINDO CACHORRÃO!!!!
+
 #include <stdlib.h> 
 #include <stdio.h>
 #include <string.h>
